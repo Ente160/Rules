@@ -1,0 +1,53 @@
+*{padding:0 ;
+    margin:0 ;
+
+}
+
+html{
+    height:100% ;
+}
+
+body{
+    height:100% ;
+    background-image: url(jojojo.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+
+
+
+
+}
+
+h1{
+    position: relative;
+    left: 700px;
+}
+li{
+    position: relative;
+    left: 700px;
+
+}
+
+
+.link-button{
+    padding: 0.3em 0.4em;
+    border: 0.5px solid #767676;
+    border-radius: 0.15em;
+    background-color:rgb(4, 0, 255);
+    color: black;
+    font-size: 0.84rem;
+    text-decoration:none;
+    cursor:pointer; 
+}
+
+.link-button:hover{
+    background-color: rgb(0, 15, 146);
+}
+
+
+.link-button{
+    position:relative;
+    left:800px; 
+    top:50px;
+}
